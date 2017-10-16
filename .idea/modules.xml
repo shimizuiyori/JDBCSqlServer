@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JDBCSqlServer.iml" filepath="$PROJECT_DIR$/.idea/modules/JDBCSqlServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JDBCSqlServer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JDBCSqlServer_main.iml" group="JDBCSqlServer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JDBCSqlServer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JDBCSqlServer_test.iml" group="JDBCSqlServer" />
+    </modules>
+  </component>
+</project>
